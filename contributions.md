@@ -20,6 +20,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Jan 27   | [link](https://github.com/joannakl/ossd_s20/pull/5)   | course website    |   Created pull request to update class discussion board section   |
-|     |     |     |      |
+| Jan 27   | [Link](https://github.com/joannakl/ossd_s20/pull/5)   | Course website    |   Created pull request to update class discussion board section   |
+| Mar 2    |  [Link](https://github.com/joannakl/ossd_s20/issues/17)   |  Course website   |  Reported a new issue  |
 |     |     |     |      |
