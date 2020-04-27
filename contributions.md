@@ -24,3 +24,4 @@ Replace the first row with your own contribution.
 | Mar 2    |  [Link](https://github.com/joannakl/ossd_s20/issues/17)   |  Course website   |  Reported a new issue  |
 |  Apr 11   |  [Link](https://www.openstreetmap.org/changeset/83407558#map=19/40.74410/-73.65611)   |  OpenStreetMap   |   Updated retail and dining area near Jericho Tpke   |
 | Apr 19  | [Link](https://en.wikipedia.org/w/index.php?title=Cloud9&oldid=952003444)  | Wikipedia | Updated details about Cloud9, the esports organization  |
+| Apr 26 | [Link](https://en.wikipedia.org/w/index.php?title=Doublelift&oldid=953384972) | Wikipedia | Added new entry in Tournament Results table   |
